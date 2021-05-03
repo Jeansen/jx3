@@ -41,7 +41,7 @@ data:
         - needs-rebase
         repos:
         - Jeansen/jx3
-      target_url: http://dashboard-jx.
+      target_url: http://dashboard-jx.192.168.178.211.nip.io
 kind: ConfigMap
 metadata:
   creationTimestamp: null
